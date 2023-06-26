@@ -1,11 +1,19 @@
 # 🎲 | Dice-Roller-API-ExpressJS
-**A dice rolling API done in Typescript using ExpressJS operating on**
+**A dice rolling API done in Typescript using ExpressJS!**
 ---
-**Running on: https://youtube-downloader-express-js.vercel.app/**
+**Running on: ...**
+## :grey_question: How does it work?
+**The API operates on the "REST API" model, returning a JSON as an HTTP GET response.**
+## :desktop_computer: How to use?
+**From GET requests with the parameter of the dice rolling operation, you will receive a JSON with the information generated from the parameter.**
+**Example:** 
+```python
+requests.get("...")
+```
 # 📥 Installation
 **Clone the repository:**
 ```bash
-git clone https://github.com/Furyforev3r/Youtube-Downloader-ExpressJS.git
+git clone https://github.com/Furyforev3r/Dice-Roller-API-ExpressJS.git
 ```
 **Install dependencies:**
 ```bash
@@ -17,3 +25,6 @@ npm install
 npm start
 ```
  **Acess the application in the browser: `http://localhost:PORT` or `http://localhost:3000`**
+## 🗃️ | **What can I put in the main parameter?**
+**Common dice operations (Example: 1d20) and sum modifiers in operations (Example: 1d20+15).**
+**It is also possible to roll several separate dice at once (Example: 1d20+10d6+15+15+1d100).**
