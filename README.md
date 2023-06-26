@@ -1,14 +1,14 @@
 # 🎲 | Dice-Roller-API-ExpressJS
 **A dice rolling API done in Typescript using ExpressJS!**
 ---
-**Running on: ...**
+**Running on: https://dice-roller-api-express-js.vercel.app/**
 ## :grey_question: How does it work?
 **The API operates on the "REST API" model, returning a JSON as an HTTP GET response.**
 ## :desktop_computer: How to use?
 **From GET requests with the parameter of the dice rolling operation, you will receive a JSON with the information generated from the parameter.**
 **Example:** 
 ```python
-requests.get("...")
+requests.get("https://dice-roller-api-express-js.vercel.app/10d20+15")
 ```
 # 📥 Installation
 **Clone the repository:**
