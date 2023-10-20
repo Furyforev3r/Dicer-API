@@ -25,6 +25,6 @@ npm install
 npm start
 ```
  **Acess the application in the browser: `http://localhost:PORT` or `http://localhost:3000`**
-## 🗃️ | **What can I put in the main parameter?**
+## 🗃️ **What can I put in the main parameter?**
 **Common dice operations (Example: 1d20) and sum modifiers in operations (Example: 1d20+15).**
 **It is also possible to roll several separate dice at once (Example: 1d20+10d6+15+15+1d100).**
