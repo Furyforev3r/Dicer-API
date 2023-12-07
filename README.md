@@ -1,14 +1,14 @@
 ![Dice Roller API](https://github.com/Furyforev3r/Dice-Roller-API-ExpressJS/assets/88341564/a172c9ac-47fd-46fb-ac93-fde99097416f)
 # 🎲 | Dicer-API
 **A dice rolling API done in Typescript using ExpressJS!**
-**Running on: https://dicer-API.vercel.app/**
+**Running on: https://dicer-api.vercel.app/**
 ## :grey_question: How does it work?
 **The API operates on the "REST API" model, returning a JSON as an HTTP GET response.**
 ## :desktop_computer: How to use?
 **From GET requests with the parameter of the dice rolling operation, you will receive a JSON with the information generated from the parameter.**
 **Example:** 
 ```python
-requests.get("https://dice-roller-api-express-js.vercel.app/10d20+15")
+requests.get("https://dicer-api.vercel.app/10d20+15")
 ```
 # 📥 Installation
 **Clone the repository:**
