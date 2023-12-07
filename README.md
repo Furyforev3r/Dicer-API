@@ -1,5 +1,5 @@
 ![Dice Roller API](https://github.com/Furyforev3r/Dice-Roller-API-ExpressJS/assets/88341564/a172c9ac-47fd-46fb-ac93-fde99097416f)
-# 🎲 | Dice-Roller-API-ExpressJS
+# 🎲 | Dicer-API
 **A dice rolling API done in Typescript using ExpressJS!**
 **Running on: https://dice-roller-api-express-js.vercel.app/**
 ## :grey_question: How does it work?
