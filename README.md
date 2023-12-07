@@ -13,7 +13,7 @@ requests.get("https://dicer-api.vercel.app/10d20+15")
 # 📥 Installation
 **Clone the repository:**
 ```bash
-git clone https://github.com/Furyforev3r/Dice-Roller-API-ExpressJS.git
+git clone https://github.com/Furyforev3r/Dicer-API.git
 ```
 **Install dependencies:**
 ```bash
